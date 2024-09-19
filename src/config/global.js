@@ -36,13 +36,18 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Servicio al cliente',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Actitud de servicio',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Cualidades de servicio al cliente',
+            hash: 't_1_2',
           },
         ],
       },
@@ -50,14 +55,40 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Principios básicos de atención al cliente',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo:
+              'Consejos prácticos para brindar a los clientes un servicio excelente',
+            hash: 't_2_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'El cliente',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Tipología de clientes',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'El ciclo del servicio',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo:
+              '¿Cómo realizar el abordaje de los diferentes clientes de forma asertiva?',
+            hash: 't_3_3',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -67,21 +98,16 @@ export default {
         nombreRuta: 'sintesis',
         desarrolloContenidos: true,
       },
-      {
+      /* {
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
-      },
+      }, */
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
-      },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
       },
       {
         icono: 'fas fa-book',
@@ -121,18 +147,78 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Accesibilidad',
+      significado:
+        'Accesible. (Del lat. accesibĭlis). La accesibilidad es el grado en el que todas las personas pueden utilizar un objeto, visitar un lugar o acceder a un servicio, independientemente de sus capacidades.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Brevedad',
+      significado: 'Centrarse en el tema.',
+    },
+    {
+      termino: 'Claridad',
+      significado:
+        'Evitar palabras ostentosas o expresiones técnicas y emplear párrafos y frases cortas.',
+    },
+    {
+      termino: 'Comprensión',
+      significado:
+        'Acción de comprender. Facultad, capacidad o perspicacia para entender y penetrar las cosas. Actitud comprensiva o tolerante. Conjunto de cualidades que integran una idea.',
+    },
+    {
+      termino: 'Cortesía',
+      significado:
+        'Demostración o acto con que se manifiesta la atención, respeto o afecto que tiene alguien a otra persona.',
+    },
+    {
+      termino: 'Empatía',
+      significado:
+        'Carisma que tiene una persona en sus relaciones consigo misma, con los demás y con su entorno',
+    },
+    {
+      termino: 'Expectativa',
+      significado: 'Esperanza de realizar o conseguir algo.',
+    },
+    {
+      termino: 'Percepción',
+      significado:
+        'Organizar e interpretar los estímulos que fueron recibidos por los sentidos que ayudan a identificar los objetos y acontecimientos.',
+    },
+    {
+      termino: 'Provisión',
+      significado: 'Acción y efecto de proveer',
+    },
+    {
+      termino: 'Servicio',
+      significado:
+        'Prestación humana que satisface alguna necesidad social y que no consiste en la producción de bienes materiales',
+    },
+    {
+      termino: 'Tangibles',
+      significado:
+        'Que se puede percibir de manera precisa. Resultados tangibles.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Baró, T. (2012). La gran guía del lenguaje no verbal. España: Editorial Paidós.',
+    },
+    {
+      referencia:
+        'Camargo, D. (2007). Servicio al cliente un compromiso. Bogotá, Colombia: Autor.',
+    },
+    {
+      referencia:
+        'De Mello, A. (1982). El canto del pájaro. Colombia: Sal Terrae.',
+    },
+    {
+      referencia:
+        'Escuela para el Desarrollo Comercial para Tecnólogos. (2008). Manual de técnicas comerciales. España: Autor.',
+    },
+    {
+      referencia:
+        'Jimenez, J. (2011). Arte Supremo. 50 prácticas de buena atención al cliente. (2a ed.). Caracas, Venezuela: Cograf.',
     },
   ],
   creditos: [
@@ -141,13 +227,13 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
-          centro: 'Dirección General',
+          cargo: 'Responsable del ecosistema',
+          centro: 'Dirección general',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo: 'Responsable de línea de producción',
+          centro: ' Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -155,9 +241,34 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'José Luis Aguilar Camacho',
+          cargo: '--',
+          centro: '--',
+        },
+        {
+          nombre: 'Marina Jaramillo Portillo',
+          cargo: '--',
+          centro: '--',
+        },
+        {
+          nombre: 'Lucy Yaneth Rache Pérez',
+          cargo: '--',
+          centro: '--',
+        },
+        {
+          nombre: 'Elsa Vargas Báez',
+          cargo: '--',
+          centro: '--',
+        },
+        {
+          nombre: 'Luz Clarena Arias González ',
+          cargo: '--',
+          centro: '--',
+        },
+        {
+          nombre: 'Carolina Jiménez',
+          cargo: 'Evaluadora instruccional ',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -165,24 +276,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Yazmin Rocio Figueroa Pacheco',
+          cargo: 'Diseñadora web',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Lizeth Karina Manchego Suarez',
+          cargo: 'Desarrolladora <i>full-stack</i>',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y productora multimedia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -190,24 +296,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: '--',
+          cargo: 'Validadora de recursos educativos digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: '--',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
