@@ -54,7 +54,7 @@
   padding-left: 65px
 
 .bg01
-  background-color: #F6CCB3 !important
+  background-color: #FFEBC7 !important
 .bg02
     background: linear-gradient(to right, #CA7441, #FDBB45);
     border-radius: 30px
@@ -64,13 +64,42 @@
 .bg04
   background-color: $color-acento-contenido !important
   width: fit-content;
+.bg05
+  background-color: #fff
+  border-top-right-radius: 100px
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 100px
+  border-bottom-right-radius: 20px
+.bg06
+  background-color: #FFE6E5
+.bg07
+  background-color:#FFBD45
+.bg08
+  background-color:#FEF1DA
+.bg09
+  background-color:#EAEBFD
+  border-radius: 10px
+
 .bgimg1
     background-image: url('../assets/curso/temas/tema1/img13.svg') !important;
     background-size: cover
     background-repeat: no-repeat
     background-position: center 
     height: 400px !important
+.bgimg2
+    background-image: url('../assets/curso/temas/tema2/img6.svg') !important;
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center 
+    height: 415px !important
 
+.fullview
+  background-image: url('../assets/curso/temas/tema2/img1.svg') !important;
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  
 /*Custom components*/
 .tarjeta--orange
   background-color: #F6CCB3 !important
@@ -106,12 +135,33 @@
       border-bottom-right-radius: 0 !important
 .tarjeta.color-primario-cus
   background-color: #FFEBC7
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #4045AB !important;
+  border: 0 !important;
+  margin-bottom: 1em
+.slyder-a__bullets__item--active
+    background-color: #EE4F47 !important
+    border-color: #EE4F47  !important
+.slyder-a__bullets__item 
+    background-color: #F9C2BF 
+    border: 0 !important;
+.tabs-a__tab 
+    background-color: $color-acento-contenido;
+
+
+
+
+
 
 /*Media Queries*/  
 //// DESKTOP SMALL 1400--------------------------------------
 @media screen and (max-width: $bp-min-xxl)
   .mb-cus
     margin-bottom: 2em  !important 
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    margin-left: 1em
+    margin-right: 1em
+
 //// TABLET 992--------------------------------------
 @media screen and (max-width: $bp-max-md)
   .mb-cus
@@ -128,3 +178,5 @@
 @media screen and (max-width: $bp-min-sm)
   .mb-cus
     margin-bottom: 2em  !important
+  .bg05
+    border-radius: 0 !important

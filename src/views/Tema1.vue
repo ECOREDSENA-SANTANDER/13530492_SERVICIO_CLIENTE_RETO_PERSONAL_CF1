@@ -12,19 +12,19 @@
         img(src='@/assets/curso/temas/tema1/img1.png', alt='')
       .col-sm-12.col-lg-7
         p El servicio: según la Real Academia de la Lengua (2001) la palabra servicio hace referencia a: 
-        .bg01.py-3.px-4
-          ul.lista-ul--color
+        .bg01.py-4.px-5
+          ul.lista-ul--color.mb-0
             li.d-flex
-              i.fas.fa-phone-volume
+              i.fas.fa-phone-alt
               span “Favor que se hace a alguien”. 
             li.d-flex
-              i.fas.fa-phone-volume
+              i.fas.fa-phone-alt
               span “Organización y personal destinados a cuidar intereses o satisfacer necesidades del público o de alguna entidad oficial o privada”. 
             li.d-flex
-              i.fas.fa-phone-volume
+              i.fas.fa-phone-alt
               span Función o prestación desempeñadas por estas organizaciones y su personal. 
-            li.d-flex
-              i.fas.fa-phone-volume
+            li.d-flex.mb-0
+              i.fas.fa-phone-alt
               span Prestación humana que satisface alguna necesidad social y que no consiste en la producción de bienes materiales. 
 
     Separador
