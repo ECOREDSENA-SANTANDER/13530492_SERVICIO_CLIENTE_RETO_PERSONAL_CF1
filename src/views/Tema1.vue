@@ -125,7 +125,7 @@
               p.mb-0 Usar las normas de cortesía para fortalecer las relaciones interpersonales. 
           .row(titulo="Ser empáticos")
             .col-sm-12.col-lg-12.pl-cus
-              p.mb-4 Empatía, según la Real Academia de la Lengua Española (2001); 
+              p.mb-4 Empatía, según la Real Academia de la Lengua Española (2001). 
               p.mb-0 “Identificación mental y afectiva de un sujeto con el estado de ánimo de otro”. 
               p.mb-0 Empatía entonces, es el carisma que tiene una persona en sus relaciones consigo misma, con los demás y con su entorno. 
 

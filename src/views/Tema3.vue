@@ -18,8 +18,8 @@
       h2 3.1  Tipología de clientes  
     p.mb-5 Existen diferentes formas de clasificar a los clientes, pero básicamente determina la catalogación, las reacciones y comportamientos que se ponen de manifiesto en el momento en que se entabla una transacción comercial, entre estas están:
     .row.justify-content-center.mb-5
-      .col-sm-12.col-lg-4.bg10.d-flex.justify-content-center.items-items-center.px-4
-        img(src='@/assets/curso/temas/tema3/img2.svg', alt='')
+      .col-sm-12.col-lg-4.bg10.d-flex.justify-content-center.items-items-center.px-4.mb-cus
+        img.mb-cus(src='@/assets/curso/temas/tema3/img2.svg', alt='')
 
       .col-sm-12.col-lg-6
         .bg01.py-4.px-5.br-10
@@ -47,7 +47,7 @@
               span #[b Cliente meticuloso - Minucioso:] detalla y revisa todo. 
             li.d-flex
               i.fas.fa-phone-alt
-              span #[b Cliente apresurado - con mucha prisa.]
+              span #[b Cliente apresurado:] con mucha prisa.
             li.d-flex
               i.fas.fa-phone-alt
               span #[b Cliente reservado:] callado. 
@@ -68,9 +68,8 @@
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido
       h2 3.2  El ciclo del servicio
-    p.mb-5 Existen diferentes formas de clasificar a los clientes, pero básicamente determina la catalogación, las reacciones y comportamientos que se ponen de manifiesto en el momento en que se entabla una transacción comercial, entre estas están:  
     .row.justify-content-center.items-items-center.mb-5
-      .col-sm-12.col-lg-4.bg11.d-flex.justify-content-center.items-items-center.px-4
+      .col-sm-12.col-lg-4.bg11.d-flex.justify-content-center.items-items-center.px-4.mb-cus
         img(src='@/assets/curso/temas/tema3/img4.svg', alt='')
 
       .col-sm-12.col-lg-8
@@ -89,13 +88,63 @@
     #t_3_3.titulo-segundo.color-acento-contenido
       h2 3.3  ¿Cómo realizar el abordaje de los diferentes clientes de forma asertiva?
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-12.col-lg-1
+      .col-sm-12.col-lg-1.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/img5.svg', alt='')
 
       .col-sm-12.col-lg-11
         p.mb-0 Hablar de asertividad es referirse a saber decir “no” sin agredir a otro, es ser sincero sin llegar a ofender, es expresar lo que se piensa sin llegar a sentirse menospreciado o ridiculizado, es escuchar la crítica sin sentirse anulado. Es creer en lo que sabe, sin sentirse dueño de la verdad, es reconocer que existen infinidad de cristales para ver el mundo. Es descubrir que el otro puede tener algo que decir y enseñar. 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-sm-12.col-lg-7 
+        p.mb-3 La palabra asertividad, según Linares (2014), “se deriva del latín #[i asserere, assertum] que significa aseverar con firmeza”. Asertividad implica entonces: autoconfianza, autoestima, prudencia, mesura, serenidad, capacidad de respetar al otro y exigir el respeto por sus derechos, capacidad de desarrollar una comunicación positiva y eficaz con otros. Una actitud coherente entre el pensar, el sentir y el actuar; capacidad social de expresar el sentir de manera adecuada y sin angustias. 
+        .cajon.color-primario.p-4.mb-4
+          p.mb-0 Ante cualquier tipología de cliente, lo más importante es reconocerlas y actuar de forma asertiva, aplicando la regla de oro: cortesía, respeto, amabilidad, veracidad, prudencia y paciencia; estar atentos para dejarle espacios y silencios al cliente con el fin de que éste pueda analizar y tomar una posición, manejar el tiempo, centrarse en la necesidad que genera el servicio y recordar siempre que todo cliente merece una buena atención. 
+      .col-sm-12.col-lg-5.d-none.d-lg-block
+        img(src='@/assets/curso/temas/tema3/img6.png', alt='')
 
+    p.mb-3 Una persona asertiva asume sus errores, pide disculpas y plantea soluciones sin que reflejar malestar o incomodidad. El saber cuándo y cómo decir las cosas, encontrar ese punto medio es ser asertivo, esto es un proceso que requiere ser desarrollado y perfeccionado día a día. 
+    p.mb-5 El aplicar la asertividad en servicio al cliente favorece aspectos como: 
 
+    .row.justify-content-start.mb-5
+      .col-lg-11.position-relative
+        .avatar
+          figure
+            img(src="@/assets/curso/temas/tema3/img7.svg", alt="alt").img250
+        .crd.crd--avatarHorizontal-2.crd--first-2.py-0
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema3/img8.svg", alt="alt").img100
+            .col
+              p Confianza en la interacción con el cliente. 
+        .crd.crd--avatarHorizontal-2.py-0.crd--first-2
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema3/img9.svg", alt="alt").img100
+            .col
+              p Aumento la imagen positiva tanto de la empresa como de quien la emplea. 
+        .crd.crd--avatarHorizontal-2.py-0.crd--first-2
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema3/img10.svg", alt="alt").img100
+            .col
+              p Produce satisfacción. 
+        .crd.crd--avatarHorizontal-2.py-0.crd--first-2
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema3/img11.svg", alt="alt").img100
+            .col
+              p Promueve la empatía. 
+        .crd.crd--avatarHorizontal-2.crd--last-2.py-0
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema3/img12.svg", alt="alt").img100
+            .col
+              p Crea un buen ambiente para llevar a cabo negociaciones.
+ 
 </template>
 
 <script>

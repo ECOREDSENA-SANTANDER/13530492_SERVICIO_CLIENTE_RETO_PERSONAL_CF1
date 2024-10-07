@@ -31,14 +31,14 @@
                     p.mb-0 Los funcionarios que desarrollan escucha activa demuestran una gran afinidad hacia las necesidades y requerimientos del cliente. La atención brindada, durante toda la transacción, contribuye a la calidad del servicio y ayuda en caso de presentarse alguna falla, inconformidad o mal entendido después de haber entregado el bien o servicio. Se convierte entonces en la mejor estrategia ante quejas y reclamaciones, pues permite que el cliente se sienta atendido, tenido en cuenta y reconocido por la empresa. 
                 p.mb-0 Para generar una comunicación asertiva (abierta y clara), se requieren tres elementos: escucha atenta, habla adecuada, oportunos silencios. 
                 p.mb-4 Hay una máxima oriental que dice: “Nadie pone más en evidencia su torpeza y mala crianza, que el que empieza a hablar antes de que pueda enlazar las palabras y estar atento a lo que el interlocutor pronuncia”. 
-                p.mb-0 Este ejercicio implica voluntad, compresión, empatía y va de corazón a corazón. El escuchar exige atención a lo que dicen los demás, actitud cordial y disposición, estos dos ingredientes son la base del genuino diálogo. Por otro lado, Rogers (1961), dice: consideración positiva incondicional (un conditional positive regard), hace referencia a una atención entusiasta, auténtica y receptiva hacia el otro, en este caso el cliente; es decir aceptar al otro tal cuál es. Así mismo, De Mello (1989), escribe: “La escucha es la cosa más difícil de hacer. Para escuchar de verdad, las dos partes en el diálogo han de estar abiertas, sin prejuicios, en entera disposición de comprender”.
+                p.mb-0 Este ejercicio implica voluntad, compresión, empatía y va de corazón a corazón. El escuchar exige atención a lo que dicen los demás, actitud cordial y disposición, estos dos ingredientes son la base del genuino diálogo. Por otro lado, Rogers (1961), dice: consideración positiva incondicional (un #[i conditional positive regard]), hace referencia a una atención entusiasta, auténtica y receptiva hacia el otro, en este caso el cliente; es decir aceptar al otro tal cuál es. Así mismo, De Mello (1989), escribe: “La escucha es la cosa más difícil de hacer. Para escuchar de verdad, las dos partes en el diálogo han de estar abiertas, sin prejuicios, en entera disposición de comprender”.
               
               .px-5.py-1
                 .row.justify-content-center.align-items-center.mb-5
                   .col-sm-12.col-lg-8
                     h4 Incondicionalidad
-                    p.fw-bold.mt-5 “El cliente es primero”. 
-                    p Como lo escribe Rogers (1968), #[b “se trata de un sentimiento positivo que se exterioriza sin reserva ni juicios.”]
+                    p.mt-5 “El cliente es primero”. 
+                    p Como lo escribe Rogers (1968),  “se trata de un sentimiento positivo que se exterioriza sin reserva ni juicios.”
                     .bg06.p-4
                       p.mb-0 El principio de la incondicionalidad, significa la aceptación total de ese otro, es decir con sus cualidades y defectos. No importa que acción realice siempre será bien recibido y atendido y se tratará de dar respuesta a sus necesidades y requerimientos. Es decir que la aceptación no está sujeta a un dar, un recibir, un actuar, un sentir y que se brinda en todo momento y lugar. 
 
@@ -50,7 +50,7 @@
                   .col-sm-12.col-lg-8
                     h4 Amabilidad
                     .bg06.p-4.my-4
-                      p.mb-0 #[b Conocer el nombre de su cliente.] Los seres humanos se reconocen y hacen parte de un entorno social (se reconocen) cuando se les da un nombre. En la actualidad se impone una cultura de antivalores, es decir prima la satisfacción del Yo y se desconoce al otro. No hay que desconocer que las tecnologías han traspasado las fronteras físicas, uniendo al mundo, pero han generado una sensación de aislamiento, de abandono, resquebrajando el tejido familia y social. 
+                      p.mb-0 Conocer el nombre de su cliente. Los seres humanos se reconocen y hacen parte de un entorno social (se reconocen) cuando se les da un nombre. En la actualidad se impone una cultura de antivalores, es decir prima la satisfacción del Yo y se desconoce al otro. No hay que desconocer que las tecnologías han traspasado las fronteras físicas, uniendo al mundo, pero han generado una sensación de aislamiento, de abandono, resquebrajando el tejido familia y social. 
                     p.mb-4 Por lo anterior se hace urgente ir al rescate de los valores, de las normas de cortesía, de urbanidad, del gesto amable, para que medien en las interrelaciones de los sujetos y se generen ambientes de sana y pacífica convivencia. La vida se construye de pequeños detalles que engrandecen el alma; el contacto visual, la palabra amable, la escucha, la empatía, la serenidad, la sencillez, la nobleza, son joyas que hace bello el compartir con otros. 
                     p.mb-0.fw-bold Recuerde: trate a los demás como le gustaría que lo traten a usted.
                   .col-sm-12.col-lg-4.d-none.d-lg-block
@@ -121,14 +121,14 @@
       .col-sm-12.col-lg-9
         TabsA.color-acento-botones.mb-5
           .tarjeta.bg09.p-5(titulo="Establezca comunicación")
-            h4.mb-5 Establezca comunicación con su cliente 
-            p.mb-0 Sea cortés, “La primera impresión es la más importante”. Se dice que una persona se forma once impresiones de otra en los primeros siete segundos de contacto. 
+            //h4.mb-5 Establezca comunicación con su cliente 
+            p.mb-0 Sea cortés, “la primera impresión es la más importante”. Se dice que una persona se forma once impresiones de otra en los primeros siete segundos de contacto. 
           .tarjeta.bg09.p-5(titulo="Establezca contacto visual ")
-            h4.mb-5 Establezca contacto visual 
+            //h4.mb-5 Establezca contacto visual 
             p.mb-0 Conéctese con el cliente, de tal forma que pueda percibir todas sus emociones, actitudes inflexiones de la voz, ritmos y tonos emocionales. Mire directamente a los ojos al cliente y transmita lozanía, entusiasmo y sinceridad. Dele las gracias por haber entrado o llamado o haberlo visitado.
 
           .tarjeta.bg09.p-5(titulo="Detecte las necesidades ")
-            h4.mb-5 Detecte las necesidades 
+            //h4.mb-5 Detecte las necesidades 
             p.mb-4 No se necesita un producto o un servicio. Lo que requiere es lo que producirá en el cliente ese producto o servicio, los beneficios finales, la forma en que servirán para hacerlo más feliz, saludable, rico, sabio o bello. 
             p.mb-2 Para averiguar en qué le puede servir usted a otros: 
             ol.lista-ol--cuadro.mb-0
@@ -147,7 +147,7 @@
 
 
           .tarjeta.bg09.p-5(titulo="Escuche al cliente")
-            h4.mb-5 Escuche al cliente
+            //h4.mb-5 Escuche al cliente
             p.mb-0 Su cliente solo le pide toda su atención, por favor escúchelo y entiéndalo; estas dos actitudes son primordiales en la generación de empatía. Según el doctor Albert Mahrabian, profesor de la Universidad de California, en La gran guía del lenguaje no verbal de Baró (2012): “la eficacia para comunicarse la ha establecido en los siguientes porcentajes: 7% oral, 38% tono de voz y 55% no oral – lenguaje corporal”. 
             p.mb-4 Se puede entonces afirmar que el cuerpo habla aun cuando se esté en silencio.
             p.mb-3 ¿Cómo mejorar la capacidad para escuchar al cliente? 
@@ -165,7 +165,7 @@
 
 
           .tarjeta.bg09.p-5(titulo="Ayude al cliente")
-            h4.mb-5 Ayude al cliente
+            //h4.mb-5 Ayude al cliente
             p.mb-4 ¡Ayúdele a obtener lo que desea! 
             p.mb-4 Los hombres de negocios y los profesionales, para poder ser competitivos hoy, deben dejar de dirigir su enfoque hacia un producto o servicio para hacerlo en cambio hacia las necesidades del cliente. Tenga presente que una persona no compra su producto por lo que es, sino por lo que le producirá. Enfóquese hacia las necesidades del cliente no hacia el producto. 
             p.mb-0 Las compañías para competir están dirigiendo su enfoque hacia las necesidades del cliente. Los clientes compran los beneficios finales que disfrutará.

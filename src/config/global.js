@@ -98,12 +98,12 @@ export default {
         nombreRuta: 'sintesis',
         desarrolloContenidos: true,
       },
-      /* {
+      {
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
-      }, */
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -242,28 +242,32 @@ export default {
       autores: [
         {
           nombre: 'José Luis Aguilar Camacho',
-          cargo: '--',
-          centro: '--',
+          cargo: 'Experto temática',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Marina Jaramillo Portillo',
-          cargo: '--',
-          centro: '--',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Lucy Yaneth Rache Pérez',
-          cargo: '--',
-          centro: '--',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Elsa Vargas Báez',
-          cargo: '--',
-          centro: '--',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Luz Clarena Arias González ',
-          cargo: '--',
-          centro: '--',
+          nombre: 'Luz Clarena Arias González',
+          cargo: 'Guionista - Línea de Producción',
+          centro: 'Centro Agroindustrial - Regional Quindío',
         },
         {
           nombre: 'Carolina Jiménez',
@@ -286,6 +290,11 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
+          nombre: 'Lucenith Pinilla Moreno',
+          cargo: 'Desarrolladora <i>full-stack</i> junior',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
           nombre: 'María Alejandra Vera Briceño',
           cargo: 'Animadora y productora multimedia',
           centro: 'Centro Agroturístico - Regional Santander',
@@ -296,7 +305,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '--',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },

@@ -108,6 +108,51 @@
 .br-10
   border-radius: 10px 
 /*Custom components*/
+.crd--avatarHorizontal-2
+  position: relative
+  padding-right: 12rem
+  margin-bottom: 1em
+  border-radius: 37px
+  & > *
+    position: relative
+  h5 
+    color: #7F4FC7
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    left: 35px
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: #F9CBC9
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--first-2, .crd--last-2
+  &::before 
+    background-color: #F9CBC9 !important
+
+.crd--first-2
+  &::before 
+    border-radius: 30px
+.crd--last-2
+  &::before 
+    border-radius: 30px
+
+.avatar
+  position: absolute
+  right: 0rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
+.tabs-a__tab__text 
+    text-overflow: initial !important
+    word-wrap: break-word !important
+    white-space: normal !important
 .tarjeta--orange
   background-color: #F6CCB3 !important
 .tarjeta--orange.acordion__activo
