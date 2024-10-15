@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 El servicio al cliente
+      h1 Servicio al cliente
     
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-5.d-none.d-lg-block
