@@ -17,7 +17,7 @@
                   .col-sm-12.col-lg-2.d-none.d-lg-block
                     img.w-75(src='@/assets/curso/temas/tema2/img2.svg', alt='')
                   .col-sm-12.col-lg-10.bg06.p-4
-                    p.mb-0 La actitud es la disposición, la conducta que asume un sujeto ante una situación. Ahora bien hablar de actitud positiva es referirse a una posición optimista, proactiva, de disfrute, gozo por las acciones que debe desarrollar o frente a eventos que debe abordar. Es fundamental que los colaboradores asuman una actitud afable, amable, comprensiva, alegre, cordial, respetuosa, que busque generar empatía para atender a los clientes, esto es, actitud positiva. Esta actitud positiva se convierte ya en un elemento fundamental para la atención de clientes con características y demandas muy particulares. 
+                    p.mb-0 La actitud es la disposición, la conducta que asume un sujeto ante una situación. Ahora bien, hablar de actitud positiva es referirse a una posición optimista, proactiva, de disfrute, gozo por las acciones que debe desarrollar o frente a eventos que debe abordar. Es fundamental que los colaboradores asuman una actitud afable, amable, comprensiva, alegre, cordial, respetuosa, que busque generar empatía para atender a los clientes, esto es, actitud positiva. Esta actitud positiva se convierte ya en un elemento fundamental para la atención de clientes con características y demandas muy particulares. 
                 p.mb-0 Esta actitud positiva requiere de pensamientos positivos. Pensar en positivo, es poder identificar las cosas buenas que pueden encontrarse en situaciones de adversidad, esto va a permitir ser optimistas en la vida y poder avanzar. 
                 p.mb-4 Los trabajadores que desarrollan su labor con actitud positiva, tienen mente abierta, generan sinergia, empatía, trabajan en equipo y reconocen en los clientes el valor que ellos representan. Es sabido que los clientes en cinco minutos reconocen la actitud negativa en el funcionario que los atiende. Este primer momento genera una huella imborrable.
                 p.mb-0 Al hablar de una actitud positiva, se hace referencia a posición de alegría, entusiasmo, agrado, frente a actividades, situaciones o eventos que se deben realizar o abordar y que no siempre pueden ser agradables. 
@@ -40,7 +40,7 @@
                     p.mt-5 “El cliente es primero”. 
                     p Como lo escribe Rogers (1968),  “se trata de un sentimiento positivo que se exterioriza sin reserva ni juicios.”
                     .bg06.p-4
-                      p.mb-0 El principio de la incondicionalidad, significa la aceptación total de ese otro, es decir con sus cualidades y defectos. No importa que acción realice siempre será bien recibido y atendido y se tratará de dar respuesta a sus necesidades y requerimientos. Es decir que la aceptación no está sujeta a un dar, un recibir, un actuar, un sentir y que se brinda en todo momento y lugar. 
+                      p.mb-0 El principio de la incondicionalidad, significa la aceptación total de ese otro, es decir, con sus cualidades y defectos. No importa que acción realice, siempre será bien recibido y atendido y se tratará de dar respuesta a sus necesidades y requerimientos. Es decir, que la aceptación no está sujeta a un dar, un recibir, un actuar, un sentir y que se brinda en todo momento y lugar. 
 
                   .col-sm-12.col-lg-4.d-none.d-lg-block
                     img(src='@/assets/curso/temas/tema2/img4.png', alt='')
@@ -50,8 +50,8 @@
                   .col-sm-12.col-lg-8
                     h4 Amabilidad
                     .bg06.p-4.my-4
-                      p.mb-0 Conocer el nombre de su cliente. Los seres humanos se reconocen y hacen parte de un entorno social (se reconocen) cuando se les da un nombre. En la actualidad se impone una cultura de antivalores, es decir prima la satisfacción del Yo y se desconoce al otro. No hay que desconocer que las tecnologías han traspasado las fronteras físicas, uniendo al mundo, pero han generado una sensación de aislamiento, de abandono, resquebrajando el tejido familia y social. 
-                    p.mb-4 Por lo anterior se hace urgente ir al rescate de los valores, de las normas de cortesía, de urbanidad, del gesto amable, para que medien en las interrelaciones de los sujetos y se generen ambientes de sana y pacífica convivencia. La vida se construye de pequeños detalles que engrandecen el alma; el contacto visual, la palabra amable, la escucha, la empatía, la serenidad, la sencillez, la nobleza, son joyas que hace bello el compartir con otros. 
+                      p.mb-0 Conocer el nombre de su cliente. Los seres humanos se reconocen y hacen parte de un entorno social (se reconocen) cuando se les da un nombre. En la actualidad se impone una cultura de antivalores, es decir, prima la satisfacción del Yo y se desconoce al otro. No hay que desconocer que las tecnologías han traspasado las fronteras físicas, uniendo al mundo, pero han generado una sensación de aislamiento, de abandono, resquebrajando el tejido familia y social. 
+                    p.mb-4 Por lo anterior, se hace urgente ir al rescate de los valores, de las normas de cortesía, de urbanidad, del gesto amable, para que medien en las interrelaciones de los sujetos y se generen ambientes de sana y pacífica convivencia. La vida se construye de pequeños detalles que engrandecen el alma; el contacto visual, la palabra amable, la escucha, la empatía, la serenidad, la sencillez, la nobleza, son joyas que hace bello el compartir con otros. 
                     p.mb-0.fw-bold Recuerde: trate a los demás como le gustaría que lo traten a usted.
                   .col-sm-12.col-lg-4.d-none.d-lg-block
                     img(src='@/assets/curso/temas/tema2/img5.png', alt='')
@@ -148,7 +148,7 @@
 
           .tarjeta.bg09.p-5(titulo="Escuche al cliente")
             //h4.mb-5 Escuche al cliente
-            p.mb-0 Su cliente solo le pide toda su atención, por favor escúchelo y entiéndalo; estas dos actitudes son primordiales en la generación de empatía. Según el doctor Albert Mahrabian, profesor de la Universidad de California, en La gran guía del lenguaje no verbal de Baró (2012): “la eficacia para comunicarse la ha establecido en los siguientes porcentajes: 7% oral, 38% tono de voz y 55% no oral – lenguaje corporal”. 
+            p.mb-0 Su cliente solo le pide toda su atención, por favor escúchelo y entiéndalo; estas dos actitudes son primordiales en la generación de empatía. Según el doctor Albert Mahrabian, profesor de la Universidad de California, en La gran guía del lenguaje no verbal de Baró (2012): “la eficacia para comunicarse la ha establecido en los siguientes porcentajes: 7 % oral, 38 % tono de voz y 55 % no oral – lenguaje corporal”. 
             p.mb-4 Se puede entonces afirmar que el cuerpo habla aun cuando se esté en silencio.
             p.mb-3 ¿Cómo mejorar la capacidad para escuchar al cliente? 
             ul.lista-ul--color.mb-4
@@ -167,7 +167,7 @@
           .tarjeta.bg09.p-5(titulo="Ayude al cliente")
             //h4.mb-5 Ayude al cliente
             p.mb-4 ¡Ayúdele a obtener lo que desea! 
-            p.mb-4 Los hombres de negocios y los profesionales, para poder ser competitivos hoy, deben dejar de dirigir su enfoque hacia un producto o servicio para hacerlo en cambio hacia las necesidades del cliente. Tenga presente que una persona no compra su producto por lo que es, sino por lo que le producirá. Enfóquese hacia las necesidades del cliente no hacia el producto. 
+            p.mb-4 Los hombres de negocios y los profesionales, para poder ser competitivos hoy, deben dejar de dirigir su enfoque hacia un producto o servicio para hacerlo en cambio, hacia las necesidades del cliente. Tenga presente que una persona no compra su producto por lo que es, sino por lo que le producirá. Enfóquese hacia las necesidades del cliente, no hacia el producto. 
             p.mb-0 Las compañías para competir están dirigiendo su enfoque hacia las necesidades del cliente. Los clientes compran los beneficios finales que disfrutará.
  
       

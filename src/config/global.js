@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'El servicio, sus principios y el cliente',
     descripcionCurso:
-      'El excelente servicio al cliente es una característica que muchas empresas quisieran tener, ya que es un valor agregado para sus productos o servicios. Por esta razón es importante comprender en qué consiste el servicio al cliente, los principios, las características, los retos y las expectativas. Este componente se centra en definir cada una de las cualidades que debe cumplir el personal para prestar un servicio al cliente de calidad.',
+      'El excelente servicio al cliente es una característica que muchas empresas quisieran tener, ya que es un valor agregado para sus productos o servicios. Por esta razón, es importante comprender en qué consiste el servicio al cliente, los principios, las características, los retos y las expectativas. Este componente se centra en definir cada una de las cualidades que debe cumplir el personal para prestar un servicio al cliente de calidad.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [

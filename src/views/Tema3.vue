@@ -10,7 +10,7 @@
       .col-sm-12.col-lg-5.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/img1.png', alt='')
       .col-sm-12.col-lg-7
-        p.mb-0 El cliente es factor de éxito de una empresa; gracias a sus demandas, sus deseos y sentidas necesidades permanece viva la empresa. Se considera cliente a toda sujeto que demande atención ya sea por requerir productos o servicios en una organización, por tanto se pueden identificar clientes internos (funcionarios de la entidad y clientes externos (no pertenecientes a la organización). 
+        p.mb-0 El cliente es factor de éxito de una empresa; gracias a sus demandas, sus deseos y sentidas necesidades, permanece viva la empresa. Se considera cliente a todo sujeto que demande atención ya sea por requerir productos o servicios en una organización, por tanto se pueden identificar clientes internos funcionarios de la entidad y clientes externos (no pertenecientes a la organización). 
         p.mb-4 Todos los esfuerzos se deben orientar a dar respuesta a todas las expectativas del cliente, quien es el epicentro de todas las actividades de la organización, por ello se debe conocer y comprender las necesidades y deseos de los clientes con el fin de plantear estrategias que permitan satisfacerlo. 
         p.mb-0 Para dar respuesta a los requerimientos de los clientes de forma efectiva, se hace necesario identificar algunos tipos de clientes y reconocer sus características. 
     Separador
@@ -58,7 +58,7 @@
       .col-sm-12.col-lg-7
         p.mb-0 Una última clasificación hace referencia a cliente sin y con discapacidad. Los clientes con discapacidad son personas con limitaciones para interactuar socialmente de forma efectiva. 
         p.mb-4 Para brindar una buena atención a un cliente con discapacidad, se debe contar con un mínimo de conocimiento de cada una de ellas (auditiva, visual, sordo-ceguera, física, cognitiva), este conocimiento le hará cambiar la concepción del discapacitado como un sujeto que tan solo merece lástima, a una persona que merece respeto y atención. 
-        p.mb-0 Según la normatividad nacional e internacional, las empresas deben brindar las condiciones necesarias para que personas con alguna limitación, puedan recibir el servicio que requieran. Para brindar una adecuada atención las empresas deben invertir en adecuar la infraestructura y los equipos tecnológicos. Las organizaciones deben por tanto brindar una atención incluyente a sus clientes.
+        p.mb-0 Según la normatividad nacional e internacional, las empresas deben brindar las condiciones necesarias para que personas con alguna limitación, puedan recibir el servicio que requieran. Para brindar una adecuada atención, las empresas deben invertir en adecuar la infraestructura y los equipos tecnológicos. Las organizaciones deben por tanto, brindar una atención incluyente a sus clientes.
 
       .col-sm-12.col-lg-5.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/img3.png', alt='')
@@ -97,7 +97,7 @@
       .col-sm-12.col-lg-7 
         p.mb-3 La palabra asertividad, según Linares (2014), “se deriva del latín #[i asserere, assertum] que significa aseverar con firmeza”. Asertividad implica entonces: autoconfianza, autoestima, prudencia, mesura, serenidad, capacidad de respetar al otro y exigir el respeto por sus derechos, capacidad de desarrollar una comunicación positiva y eficaz con otros. Una actitud coherente entre el pensar, el sentir y el actuar; capacidad social de expresar el sentir de manera adecuada y sin angustias. 
         .cajon.color-primario.p-4.mb-4
-          p.mb-0 Ante cualquier tipología de cliente, lo más importante es reconocerlas y actuar de forma asertiva, aplicando la regla de oro: cortesía, respeto, amabilidad, veracidad, prudencia y paciencia; estar atentos para dejarle espacios y silencios al cliente con el fin de que éste pueda analizar y tomar una posición, manejar el tiempo, centrarse en la necesidad que genera el servicio y recordar siempre que todo cliente merece una buena atención. 
+          p.mb-0 Ante cualquier tipología de cliente, lo más importante es reconocerlas y actuar de forma asertiva, aplicando la regla de oro: cortesía, respeto, amabilidad, veracidad, prudencia y paciencia; estar atentos para dejarle espacios y silencios al cliente con el fin de que éste, pueda analizar y tomar una posición, manejar el tiempo, centrarse en la necesidad que genera el servicio y recordar siempre que todo cliente merece una buena atención. 
       .col-sm-12.col-lg-5.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/img6.png', alt='')
 

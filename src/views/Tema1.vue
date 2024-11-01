@@ -98,9 +98,9 @@
           .col-sm-12.col-lg-2.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema1/img10.svg', alt='')
           .col-sm-12.col-lg-10
-            p.mb-0 Definitivamente, se ha comprobado que la atención al cliente no la hacen las grandes infraestructuras tecnológicas sino el calor humano y la comunicación. Un buen servicio al cliente requiere desarrollar ciertas habilidades como: diagnosticar, escuchar, preguntar y algo fundamental, sentir. 
+            p.mb-0 Definitivamente, se ha comprobado que la atención al cliente no la hacen las grandes infraestructuras tecnológicas, sino el calor humano y la comunicación. Un buen servicio al cliente requiere desarrollar ciertas habilidades como: diagnosticar, escuchar, preguntar y algo fundamental, sentir. 
         .cajon.color-primario.p-4.mb-0
-          p.mb-0 En función a lo anterior, para que una organización logre brindar un excelente servicio al cliente debe fomentar en sus colaboradores el trabajo en equipo. Son enemigos del trabajo en equipo: la envidia, la competencia, el complejo de inferioridad, la superioridad, el mal genio, la crítica. 
+          p.mb-0 En función a lo anterior, para que una organización logre brindar un excelente servicio al cliente, debe fomentar en sus colaboradores el trabajo en equipo. Son enemigos del trabajo en equipo: la envidia, la competencia, el complejo de inferioridad, la superioridad, el mal genio, la crítica. 
 
       .col-sm-12.col-lg-5.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema1/img11.png', alt='')
@@ -163,7 +163,7 @@
       .col-sm-12.col-lg-1.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema1/img18.svg', alt='')
       .col-sm-12.col-lg-11
-        p.mb-0 Si se analiza lo anterior, se puede observar qué en el mundo globalizado, el nuevo juego es todo o nada, hay que ser cuidadosos con las actitudes que se asumen, al igual que de la imagen que se proyecta, ya que uno de los pilares del éxito de las empresas son las relaciones a través del servicio. Por tanto, la era de la personalización debe cumplir con los siguientes requisitos: ser atractivo, único y de mejor precio. 
+        p.mb-0 Si se analiza lo anterior, se puede observar que en el mundo globalizado, el nuevo juego es todo o nada, hay que ser cuidadosos con las actitudes que se asumen, al igual que de la imagen que se proyecta, ya que uno de los pilares del éxito de las empresas son las relaciones a través del servicio. Por tanto, la era de la personalización debe cumplir con los siguientes requisitos: ser atractivo, único y de mejor precio. 
     p.mb-5 El servicio al cliente es como una función de teatro, para que la representación sea buena se necesita un excelente equipo de trabajo responsable de la calidad de la función, y para ello recuerde: 
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-8
@@ -219,7 +219,7 @@
       .p-5(titulo="Organización" :icono="require('@/assets/curso/temas/tema1/img21.svg')")
         .row
           .col-sm-12.col-lg-8
-            p Una solicitud de servicio exige una respuesta rápida y efectiva y esto solo es posible, si se cuenta con una información y unos datos organizados. Además no solo se debe organizar la información de nuestra organización sino también de los clientes, lo que facilitará brindar una atención personalizada, haciendo sentir al cliente como parte de la entidad. El planificar permite prever y disminuir una situación de mala atención a un cliente. Ser organizado le comunica al cliente seguridad, confianza, credibilidad. 
+            p Una solicitud de servicio exige una respuesta rápida y efectiva y esto solo es posible, si se cuenta con una información y unos datos organizados. Además, no solo se debe organizar la información de nuestra organización sino también de los clientes, lo que facilitará brindar una atención personalizada, haciendo sentir al cliente como parte de la entidad. El planificar permite prever y disminuir una situación de mala atención a un cliente. Ser organizado le comunica al cliente seguridad, confianza, credibilidad. 
           .col-sm-12.col-lg-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema1/img26.svg', alt='')
       .p-5(titulo="Adaptabilidad" :icono="require('@/assets/curso/temas/tema1/img22.svg')")
@@ -231,13 +231,13 @@
       .p-5(titulo="Buen escucha" :icono="require('@/assets/curso/temas/tema1/img23.svg')")
         .row
           .col-sm-12.col-lg-8
-            p Un buen servicio al cliente no es tomar un estándar de atención, es necesario ser bueno escuchando, para poder darle a cliente lo que necesita y desea. El cliente espera un trato personalizado, en el que se le reconozca, se le identifique. El saber escuchar facilita además dar una respuesta rápida y oportuna al cliente, evitando pérdida de tiempo y esfuerzo, representando esto, una ganancia para la organización. 
+            p Un buen servicio al cliente no es tomar un estándar de atención, es necesario ser bueno escuchando, para poder darle al cliente lo que necesita y desea. El cliente espera un trato personalizado, en el que se le reconozca, se le identifique. El saber escuchar facilita, además, dar una respuesta rápida y oportuna al cliente, evitando pérdida de tiempo y esfuerzo, representando esto, una ganancia para la organización. 
           .col-sm-12.col-lg-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema1/img28.svg', alt='')
       .p-5(titulo="Minuciosidad" :icono="require('@/assets/curso/temas/tema1/img24.svg')")
         .row
           .col-sm-12.col-lg-8
-            p Ser minucioso, implica un detallado conocimiento de los productos, servicios, procesos, trámites, que tiene la empresa, de esto depende un servicio al cliente efectivo y evita enviar al cliente de oficina en oficina, generando malestar, que se reflejará en el rechazo y la inconformidad del cliente, representando pérdida para la empresa. Si se cuenta con toda la información se brindará un abanico de opciones para que el cliente pueda escoger la mejor. Ahora bien, esta cualidad le permite a la empresa analizar y cuidar los detalles tanto del servicio como de sus productos, centrándose así en la búsqueda de la satisfacción del cliente.  
+            p Ser minucioso, implica un detallado conocimiento de los productos, servicios, procesos, trámites, que tiene la empresa, de esto depende un servicio al cliente efectivo y evita enviar al cliente de oficina en oficina, generando malestar, que se reflejará en el rechazo y la inconformidad del cliente, representando pérdida para la empresa. Si se cuenta con toda la información, se brindará un abanico de opciones para que el cliente pueda escoger la mejor. Ahora bien, esta cualidad le permite a la empresa analizar y cuidar los detalles tanto del servicio como de sus productos, centrándose así en la búsqueda de la satisfacción del cliente.  
           .col-sm-12.col-lg-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema1/img29.svg', alt='')
 
