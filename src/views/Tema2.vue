@@ -167,7 +167,7 @@
           .tarjeta.bg09.p-5(titulo="Ayude al cliente")
             //h4.mb-5 Ayude al cliente
             p.mb-4 ¡Ayúdele a obtener lo que desea! 
-            p.mb-4 Los hombres de negocios y los profesionales, para poder ser competitivos hoy, deben dejar de dirigir su enfoque hacia un producto o servicio para hacerlo en cambio, hacia las necesidades del cliente. Tenga presente que una persona no compra su producto por lo que es, sino por lo que le producirá. Enfóquese hacia las necesidades del cliente, no hacia el producto. 
+            p.mb-4 Los hombres de negocios y los profesionales, para poder ser competitivos hoy, deben dejar de dirigir su enfoque hacia un producto o servicio para hacerlo, en cambio, hacia las necesidades del cliente. Tenga presente que una persona no compra su producto por lo que es, sino por lo que le producirá. Enfóquese hacia las necesidades del cliente, no hacia el producto. 
             p.mb-0 Las compañías para competir están dirigiendo su enfoque hacia las necesidades del cliente. Los clientes compran los beneficios finales que disfrutará.
  
       
